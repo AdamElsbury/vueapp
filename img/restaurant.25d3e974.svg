@@ -1,0 +1,17 @@
+<svg id="restaurant" xmlns="http://www.w3.org/2000/svg" width="83.493" height="83.543" viewBox="0 0 83.493 83.543">
+  <g id="Group_62" data-name="Group 62" transform="translate(4.648)">
+    <g id="Group_61" data-name="Group 61">
+      <path id="Path_45" data-name="Path 45" d="M105.334,71.032,72.575,38.273,34.3,0H31.31L30.7,1.552a27.44,27.44,0,0,0-1.992,12.115A17.112,17.112,0,0,0,33.5,24.6L63.382,54.475l3.941-3.941L94.945,81.421a7.346,7.346,0,1,0,10.388-10.389Z" transform="translate(-28.636)" fill="#007ea7"/>
+    </g>
+  </g>
+  <g id="Group_64" data-name="Group 64" transform="translate(0 47.555)">
+    <g id="Group_63" data-name="Group 63" transform="translate(0)">
+      <path id="Path_46" data-name="Path 46" d="M25.7,291.442l-23.4,23.4a7.346,7.346,0,0,0,10.388,10.388l23.4-23.4Z" transform="translate(-0.153 -291.442)" fill="#007ea7"/>
+    </g>
+  </g>
+  <g id="Group_66" data-name="Group 66" transform="translate(44.742 0.059)">
+    <g id="Group_65" data-name="Group 65">
+      <path id="Path_47" data-name="Path 47" d="M309.582,14.212,296.308,27.486l-3.463-3.463,13.274-13.274-3.463-3.463L289.383,20.56,285.92,17.1,299.194,3.824,295.731.361,278.417,17.675a12.223,12.223,0,0,0-3.562,7.919,7.053,7.053,0,0,1-.5,2.211L285.6,39.052a7.046,7.046,0,0,1,2.211-.5,12.219,12.219,0,0,0,7.919-3.562l17.314-17.314Z" transform="translate(-274.354 -0.361)" fill="#007ea7"/>
+    </g>
+  </g>
+</svg>
